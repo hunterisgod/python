@@ -1,4 +1,7 @@
 print("hello world")
 
 def printer():
-  print("test")
+  print("tab")
+  
+def hello():
+   print("3 spaces)
